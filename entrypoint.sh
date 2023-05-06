@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'6ae4cb8d-d860-4913-a38b-2b04135f7d1e'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://old-forest-3502.7sy93c8bo.workers.dev/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
