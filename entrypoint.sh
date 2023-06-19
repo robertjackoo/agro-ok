@@ -6,11 +6,11 @@ UUID=${UUID:-'6ae4cb8d-d860-4913-a38b-2b04135f7d1e'}
 
 # 其他Paas保活
 PAAS1_URL=https://app-robertjackoo.cloud.okteto.net/
-PAAS2_URL=
-PAAS3_URL=
-PAAS4_URL=
-PAAS5_URL=
-PAAS6_URL=
+PAAS2_URL=https://daffy-marvelous-metacarpal.glitch.me/
+PAAS3_URL=https://27rtcz-3000.csb.app/
+PAAS4_URL=https://tast-owc6.onrender.com/
+PAAS5_URL=https://frankwalker-test.hf.space/
+PAAS6_URL=https://80-9a751cfc832f4f708bf86ebdd8795f12.onpatr.cloud/
 
 # koyeb账号保活
 KOYEB_ACCOUNT=
