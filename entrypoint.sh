@@ -9,16 +9,16 @@ PAAS1_URL=https://app-robertjackoo.cloud.okteto.net/
 PAAS2_URL=https://daffy-marvelous-metacarpal.glitch.me/
 PAAS3_URL=https://27rtcz-3000.csb.app/
 PAAS4_URL=https://tast-owc6.onrender.com/
-PAAS5_URL=https://frankwalker-test.hf.space/
-PAAS6_URL=https://80-9a751cfc832f4f708bf86ebdd8795f12.onpatr.cloud/
+PAAS5_URL=
+PAAS6_URL=
 
 # koyeb账号保活
 KOYEB_ACCOUNT=
 KOYEB_PASSWORD=
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
-ARGO_AUTH='{"AccountTag":"14fb180ade4ca865b694b9753897adb4","TunnelSecret":"F/m9t5Pf8ywJ//CkCBPQts5UutAokozp2H0CuPDKGAU=","TunnelID":"66cb97dc-23f6-4c1c-a0e3-a0f7475b991d"}'
-ARGO_DOMAIN=okteto.2tiejhho34.gq
+ARGO_AUTH='{"AccountTag":"14fb180ade4ca865b694b9753897adb4","TunnelSecret":"Nj6p3avR0ShmatvsyLJnVrTIg3ujogJpg22wD3Jo2gQ=","TunnelID":"d9e94814-d2f8-4da9-81ef-03ccfae27b48"}'
+ARGO_DOMAIN=okargo.2tiejhho34.gq
 
 generate_config() {
   cat > config.json << EOF
